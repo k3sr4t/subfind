@@ -1,5 +1,15 @@
 # subfind
 find hidden subdirectories web paths and scan for vulnerabilities
+  +multi threading
+  +Lots of wordlist what do you need for
+  +subdirrectory finding
+  +web path finding
+  +vuln scan (vuln scan will come soon) 
+  +customizated wordlists (come soon)
+  
 type URL and start the scan
-(vuln scan will come soon) 
-(this project is not finish yet)
+easy to use
+
+alternative of gobuster and dirsearch
+
+
